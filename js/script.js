@@ -1,7 +1,7 @@
 /*
 Configuration
 ------------------------
-If something doesn't work please contact me on discord (Astronawta#0012).
+If something doesn't work please contact me on discord (IdlePancake4996#1195).
 */
 
 const config = {
